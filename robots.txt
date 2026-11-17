@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://desa55alam.netlify.app/sitemap.xml
